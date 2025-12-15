@@ -1,0 +1,11 @@
+the bmi app is designed here
+here the figma file 
+https://www.figma.com/design/GWs82AyTSi71G2ftorcN9J/Untitled?node-id=1-43&t=zbIEROS1xu8ZAsDt-1
+
+the image prievvw for the sample ui, i have made it yellowish and orange to give it a unique color theme, as well as on entering the value of weight and height we get the bmi as per the predefined formula which caluclates the bmi
+
+
+the img preview 
+![alt text](image.png)
+
+here the list also added inorder to tell the user what it need and in which category they will fall with the bmi
