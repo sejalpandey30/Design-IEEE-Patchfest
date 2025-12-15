@@ -1,0 +1,84 @@
+Create a 4-step checkout process:
+
+1️⃣ Cart Review
+
+-List of items
+-Product image, name, price, quantity selector
+-Remove button
+-Order summary (subtotal, shipping, taxes, total)
+
+2️⃣ Shipping Details
+
+-Form inputs for:
+-Name
+-Phone
+-Email
+-Address
+-City, State, ZIP
+-Country selector
+-Delivery options (standard/express)
+
+3️⃣ Payment
+
+-Card details:
+-Card number
+-Name on card
+-Expiry date
+-CVV
+-OR alternative payment (UPI/PayPal) section
+-Billing address same as shipping (checkbox)
+
+4️⃣ Review & Confirm
+
+-Display all collected info
+-Order summary
+-Payment method preview
+-“Place Order” button
+-Confirmation state (toast or screen)
+
+📋 Functional Requirements
+Core
+
+-Multi-step progress indicator (horizontal or vertical)
+
+All steps must include:
+-Clear labels
+-Error messages
+-Disabled/active/completed states
+-Smooth transitions between steps
+-Responsive Requirements
+
+-No overflow, clean spacing, all buttons visible
+-Interaction + Accessibility
+-Hover, focus, disabled states for inputs/buttons
+-Visible focus indicators
+-Semantic grouping (fieldset, labels, etc.)
+-High contrast + readable typography
+
+🟩 Acceptance Criteria
+✔ Functional
+
+-4 steps work visually as a unified flow
+-Cart → Shipping → Payment → Review transitions are clear
+-Progress indicator updates correctly
+-Error + success states included
+-Order summary consistent across steps
+
+✔ UI/UX
+
+-Modern e-commerce feel (Apple Store / Shopify / Stripe)
+-Clean spacing, consistent sizing
+-Balanced white-space
+-Smooth transitions (fade/slide optional)
+
+✔ Accessibility
+
+-Focus states
+-Labels + placeholders correctly used
+-Alt text for product images
+
+
+link: https://www.figma.com/design/tET1R7Wic5NCvKj5NwkXKS/Untitled?node-id=1-2&t=OFdgkI18sMhD6tod-1
+
+
+img: ![alt text](image-2.png)
